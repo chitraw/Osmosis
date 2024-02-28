@@ -1,0 +1,21 @@
+.section{
+  display: block;
+  margin-bottom: 20px;
+}
+.divission{
+  width: 190px;
+}
+input{
+  border: 1px solid
+
+}
+select{
+  border: 1px solid
+
+}
+.span{
+  display:flex
+}
+.section span{
+  margin-bottom: 20px;
+}
